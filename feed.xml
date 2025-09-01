@@ -4,22 +4,22 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title><![CDATA[TechBytes with Tina & Dave]]></title>
-    <link>https://techbytes-td.github.io/podcast-pipeline/</link>
+    <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
     <language>en</language>
     <itunes:author><![CDATA[Faustina and David]]></itunes:author>
     <itunes:owner><itunes:email>firesidechatwithtd@gmail.com</itunes:email></itunes:owner>
-    <itunes:image href="https://techbytes-td.github.io/podcast-pipeline/assets/show_cover_3000.jpg"/>
+    <itunes:image href="https://techbytes-td.github.io/techbytes-podcast-site/assets/show_cover_3000.jpg"/>
     <description><![CDATA[Conversations about AI, cybersecurity, and emerging technologies.]]></description>
-    <atom:link href="https://techbytes-td.github.io/podcast-pipeline/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://techbytes-td.github.io/techbytes-podcast-site/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
     <title><![CDATA[Is AI replacing my job?]]></title>
     <description><![CDATA[In this episode, we explore how AI is impacting jobs across industries, what roles are most at risk, and where humans remain essential.]]></description>
-    <link>https://techbytes-td.github.io/podcast-pipeline/</link>
+    <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
     <guid isPermaLink="false">2025-09-01-episode001</guid>
     <pubDate>Mon, 01 Sep 2025 20:00:00 +0000</pubDate>
     <enclosure url="https://archive.org/download/techbytes-with-tina---dave-2025-09-01-episode001/episode.mp3" length="274944078" type="audio/mpeg"/>
-    <itunes:image href="https://techbytes-td.github.io/podcast-pipeline/episodes/2025-09-01-episode001/cover_3000.jpg"/>
+    <itunes:image href="https://techbytes-td.github.io/techbytes-podcast-site/episodes/2025-09-01-episode001/cover_3000.jpg"/>
     <itunes:explicit>no</itunes:explicit>
   </item>
   </channel>
