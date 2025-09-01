@@ -1,0 +1,9 @@
+# Never expose episodes or state
+episodes/
+.cache/
+.state.yaml
+
+# Python stuff
+__pycache__/
+venv/
+*.pyc
