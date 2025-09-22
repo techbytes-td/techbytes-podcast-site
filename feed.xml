@@ -13,6 +13,16 @@
     <atom:link href="https://techbytes-td.github.io/techbytes-podcast-site/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
+    <title><![CDATA[The impact of AI in our society today]]></title>
+    <description><![CDATA[In this episode, Tina and Dave dive into how artificial intelligence is shaping everyday life, particularly regarding education. We explore both the opportunities AI creates and the challenges it raises for ethics, privacy, and the future of human connection.]]></description>
+    <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
+    <guid isPermaLink="false">2025-09-22-episode002</guid>
+    <pubDate>Mon, 22 Sep 2025 19:00:00 +0000</pubDate>
+    <enclosure url="https://archive.org/download/techbytes-with-tina---dave-2025-09-22-episode002/episode.mp3" length="351912014" type="audio/mpeg"/>
+    <itunes:image href="https://techbytes-td.github.io/techbytes-podcast-site/episodes/2025-09-22-episode002/cover_3000.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+  <item>
     <title><![CDATA[Is AI replacing my job?]]></title>
     <description><![CDATA[In this episode, we explore how AI is impacting jobs across industries, what roles are most at risk, and where humans remain essential.]]></description>
     <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
