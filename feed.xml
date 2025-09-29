@@ -8,12 +8,24 @@
     <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
     <language>en</language>
     <itunes:author><![CDATA[Faustina and David]]></itunes:author>
-    <itunes:owner><itunes:email>firesidechatwithtd@gmail.com</itunes:email></itunes:owner>
+    <itunes:owner>
+      <itunes:email>firesidechatwithtd@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://techbytes-td.github.io/techbytes-podcast-site/assets/show_cover_3000.jpg"/>
     <description><![CDATA[Conversations about AI, cybersecurity, and emerging technologies.]]></description>
     <atom:link href="https://techbytes-td.github.io/techbytes-podcast-site/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:category text="Technology"/>
 
+  <item>
+    <title><![CDATA[Is AI really creative?]]></title>
+    <description><![CDATA[In this episode, we explore the concept of creativity in artificial intelligence. We discuss what creativity means, its different levels and how AI systems can exhibit creative behaviors. We also discuss the subtle effect AI has on our creative abilities and how to stay ahead of the curve.]]></description>
+    <link>https://techbytes-td.github.io/techbytes-podcast-site/</link>
+    <guid isPermaLink="false">2025-09-29-episode003</guid>
+    <pubDate>Mon, 29 Sep 2025 19:00:00 +0000</pubDate>
+    <enclosure url="https://archive.org/download/techbytes-with-tina-and-dave-2025-09-29-episode003/episode.mp3" length="364265550" type="audio/mpeg"/>
+    <itunes:image href="https://techbytes-td.github.io/techbytes-podcast-site/episodes/2025-09-29-episode003/cover_3000.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
   <item>
     <title><![CDATA[The impact of AI in our society today]]></title>
     <description><![CDATA[In this episode, Tina and Dave dive into how artificial intelligence is shaping everyday life, particularly regarding education. We explore both the opportunities AI creates and the challenges it raises for ethics, privacy, and the future of human connection.]]></description>
